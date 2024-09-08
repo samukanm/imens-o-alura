@@ -1,4 +1,4 @@
-## Procurando Atletas? A gente te ajuda!
+## Procurando Atletas? A gente te ajuda! - Irmensão Alura e Gemini
 
 **O que faz essa aplicação?**
 
